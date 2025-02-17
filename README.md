@@ -1,7 +1,6 @@
 # 🌍 Mercedes  - Geographer & Environmental Advocate
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/mercedesac)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=mercedes1996.mercedes1996)
-
 ## About Me
 
 When I decided to study Geography in college, I knew from the start that it would expand my understanding of society and deepen my connection with the world. As human beings, we have the opportunity to recognize the immense value of our environment and take meaningful action to create a better place for all—from the most vulnerable species to the strongest.
