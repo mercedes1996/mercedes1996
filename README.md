@@ -1,16 +1,21 @@
-## Hi there 👋
+# 🌍 Mercedes  - Geographer & Environmental Advocate
 
-<!--
-**mercedes1996/mercedes1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+When I decided to study Geography in college, I knew from the start that it would expand my understanding of society and deepen my connection with the world. As human beings, we have the opportunity to recognize the immense value of our environment and take meaningful action to create a better place for all—from the most vulnerable species to the strongest.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My main goal is to apply my knowledge to address the environmental and territorial needs of my country and beyond, contributing to sustainable development and conservation efforts.
+
+## 💡 Skills & Expertise
+
+Environmental & Territorial Systems Analysis
+Sustainable Land Planning & Management
+Geomatics & Geographic Information Technologies
+
+## 🌱 My Mission
+
+To integrate geospatial analysis, environmental science, and land management strategies to drive positive change in conservation, restoration, and sustainable development initiatives.
+
+## 📫 Connect with Me
+
+Feel free to reach out for collaboration or discussions on environmental sustainability, GIS, and conservation projects!
